@@ -8,8 +8,6 @@ import io.cucumber.junit.CucumberOptions;
 /**
  * Unit test for simple App.
  */
-		
-
 @RunWith(Cucumber.class)				
 @CucumberOptions(
     features="Features",
